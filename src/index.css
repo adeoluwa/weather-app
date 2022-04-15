@@ -37,7 +37,6 @@ h1 {
   height: 100%;
   top: 0;
   left: 0;
-  bottom: 0;
   z-index: -1;
 }
 
@@ -61,7 +60,7 @@ h1 {
 
 .container {
   max-width: 700px;
-  height: 590px;
+  height: 700px;
   margin: auto;
   padding: 0 1rem;
   position: relative;
@@ -96,4 +95,11 @@ h1 {
 
 .bold {
   font-weight: 700;
+  font-family: 'outfit';
+}
+
+@media (max-width: 700px) {
+  body {
+    flex-direction: column;
+  }
 }

@@ -90,7 +90,6 @@ h1 {
   text-align: center;
   align-items: center;
   width: 100%;
-  /* margin: auto; */
   padding: 1rem;
   border-radius: 12px;
   background-color: rgba(255, 255, 255, 0.2);
@@ -100,4 +99,3 @@ h1 {
   font-weight: 700;
   font-family: 'outfit';
 }
-

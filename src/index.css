@@ -5,6 +5,8 @@
   margin: 0;
   padding: 0;
   margin-bottom: auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 body {
